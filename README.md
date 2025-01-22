@@ -10,5 +10,5 @@
     🎮• Lawn Tennis • Art • Travel • Museams • Code • Music
 </pre>
 
-[![](https://img.shields.io/badge/linkedin-0a66c2)](http://linkedin.com/in/ChaniceIrungu/)
+[![](https://img.shields.io/badge/linkedin-0a66c2)](https://www.linkedin.com/in/chanice-irungu-a5b235107/)
 </div>
