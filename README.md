@@ -7,7 +7,7 @@
     💼• Front-end dev • Full-stack dev • DevOps
     💻• React, Vue, Next, Nuxt, NodeJs, ExpressJs
     📖• MongoDb, MySQL, Postgres, 
-    🎮• Lawn Tennis • Art • Travel • Museams • Code • Music
+    🎮• Lawn Tennis • Art • Travel • Museums • Code • Music
 </pre>
 
 [![](https://img.shields.io/badge/linkedin-0a66c2)](https://www.linkedin.com/in/chanice-irungu-a5b235107/)
