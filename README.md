@@ -10,6 +10,8 @@
     🎮• Lawn Tennis • Art • Travel • Museums • Code • Music
 </pre>
 
+<h3>I am on a hiatus to Gitlab</h3>
+
 [![](https://img.shields.io/badge/linkedin-0a66c2)](https://www.linkedin.com/in/chanice-irungu-a5b235107/)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ChaniceIrungu&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
 </p>
